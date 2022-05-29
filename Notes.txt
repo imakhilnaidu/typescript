@@ -1,0 +1,5 @@
+-> Typescript is a programming language, which is built on top of javascript.
+-> Every javascript file is a valid typescript file.
+-> Typescript is nothing but, javascript with type checking.
+-> We can use typescript wherever we use javascript.
+-> Browser don't understand typescript, so we need a typescript compiler which will convert typescript code to plain javascript code. This process is called transpilation.
